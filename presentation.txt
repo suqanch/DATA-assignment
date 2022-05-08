@@ -1,0 +1,17 @@
+
+
+join table：
+Using city and year as the primary key in the mental health and earthquake set, the total number of men and women in the filter out, that is, the total attribute
+
+Using the total number of earthquakes per year as the independent variable and mental problems as the dependent variable, it does not seem that there is any close relationship between the two.
+
+Using the average amplitude per year as the independent variable and the mental problem as the dependent variable, it does not seem to be closely related to each other.
+Trying to draw a curve is not a linear relationship either
+
+Using maximum amplitude per year as the independent variable and mental problems as the dependent variable, it does not seem that there is a close relationship between the two
+Canterbury maximum amplitude and mental problems population are almost constant
+
+Here's the next part that I find most interesting.
+We combined each city's annual population with the population with mental health problems based on a time line, and
+We found that they had similar magnitudes and trends of change
+
