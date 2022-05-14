@@ -10,3 +10,22 @@ We plan to extract the company/business name, the number of reviews made for the
 
 
 
+Group project:
+----------How does the severity of earthquakes affect migration of residents and their mental health?
+EarthquakeNotebook.ipynb 
+FINAL_population_by_city.csv
+Journal.ipynb
+Plotting.ipynb
+PopulationNotebook.ipynb
+change rate.csv
+change_rate.csv
+change_rate_1.csv
+data readme.txt
+migrant.csv
+migrant1.csv
+population and change rate.csv
+population clean up.ipynb
+population1.csv
+presentation.txt
+region population.csv
+region_population.csv  
